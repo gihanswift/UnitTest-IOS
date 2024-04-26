@@ -14,4 +14,6 @@ struct SignupConstants {
 
     static let lastNameMinLength = 2
     static let lastNameMaxLength = 15
+
+    static let signupURL = "https://tlyqhtlbn8.execute-api.us-east-1.amazonaws.com/prod/signup-mock-service/users"
 }
